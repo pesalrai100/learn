@@ -4,18 +4,16 @@
 
 <p>
 
-This is paragraph part of the page 
+hello how are you??? its paragraph  
 
 </p>
 
 <p>
-hello i am trying to test it
+remind you agin its para part
 </p>
 
 <p>
-I am new in this field butits fun
-
-added new thing to 
+it fun to learn
 </p>
 
 </body>
